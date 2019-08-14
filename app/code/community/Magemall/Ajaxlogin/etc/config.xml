@@ -112,7 +112,7 @@
             <settings>
                   <enable>1</enable>
             </settings>
-        </payment>
+        </ajaxlogin>
     </default>
 	
 </config>
