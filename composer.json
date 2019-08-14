@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Giko_AjaxLogin",
+    "type": "magento-module",
+    "license": "Privary",
+    "homepage": "",
+    "description": "magemall",
+    "authors": [
+    {
+        "name": "LuoChunhui",
+        "email": "wo@luochunhui.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
