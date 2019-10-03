@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Giko_AjaxLogin",
+    "name": "openmage-module-fostering\/giko_ajaxlogin",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Magemall AjaxLogin will replace the login link to an ajax popup box.It's easy to use without any code change",
     "authors": [
